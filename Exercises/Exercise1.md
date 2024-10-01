@@ -11,14 +11,14 @@ SELECT column1, column2, etc
 FROM table (layer);
 ```
 
-1. Fetch all of the columns in the `poly_data` table.
+#### 1. Fetch all of the columns in the `poly_data` table.
 
 ```sql
 SELECT *
 FROM poly_data;
 ```
 
-2. Fetch only the `fid` and `name` columns in the `poly_data` table.
+#### 2. Fetch only the `fid` and `name` columns in the `poly_data` table.
 
 <details>
   <summary>Click to see solution</summary>
@@ -41,7 +41,7 @@ SELECT column1 AS easy_to_swallow_column_name
 FROM table (layer);
 ```
 
-1. Fetch `fid` and `name` in the `poly_data` table while providing aliases for them.
+#### 1. Fetch `fid` and `name` in the `poly_data` table while providing aliases for them.
 
 ```sql
 SELECT fid AS "Feature ID", "name" AS "Feature Name"
@@ -50,7 +50,7 @@ FROM poly_data;
 
 _Tip: Quotation marks are necessary when providing aliases that have special characters or spaces in them._
 
-2. Practice using `AS` to provide aliases for the columns in another query.
+#### 2. Practice using `AS` to provide aliases for the columns in another query.
 
 **`AS` will become more powerful when we start to join tables together that have identical column names.**
 
@@ -63,14 +63,14 @@ SELECT DISTINCT column1
 FROM table (layer);
 ```
 
-1. Find the unique types of sports available in our polygon data.
+#### 1. Find the unique types of sports available in our polygon data.
 
 ```sql
 SELECT DISTINCT sport
 FROM poly_data;
 ```
 
-2. Find the unique materials within our polygon data.
+#### 2. Find the unique materials within our polygon data.
 
 <details>
   <summary>Click to see solution</summary>
