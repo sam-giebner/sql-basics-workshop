@@ -4,4 +4,4 @@ This folder contains a series of short exercises that will help you practice the
 
 ### Table of Contents
 
-- [Exercise 1: Query Basics](Exercises/Exercise1.md)
+- [Exercise 1: Query Basics](./Exercise1.md)
