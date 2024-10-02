@@ -21,7 +21,7 @@ SELECT
   models.ModelURL
 FROM superior_shipwrecks AS shipwrecks
 JOIN shipwreck_models AS models
-ON shipwrecks.ShipName = odels.WreckName;
+ON shipwrecks.ShipName = models.WreckName;
 ```
 
 _Tip: It can be very useful to use aliases (on the tables as well) to make your query more legible. Once a table has an alias it can be referenced using that name in other parts of the query._
