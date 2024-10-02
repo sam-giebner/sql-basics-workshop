@@ -6,3 +6,4 @@ This folder contains a series of short exercises that will help you practice the
 
 - [Exercise 1: Query Basics](./Exercise1.md)
 - [Exercise 2: Filtering Data](./Exercise2.md)
+- [Exercise 3: Summarizing Data](./Exercise3.md)
