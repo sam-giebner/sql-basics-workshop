@@ -8,6 +8,6 @@ In this hands-on workshop, we’ll start by learning the basics of SQL and how t
 
 ## Workshop Materials
 
-### [Slides](<[./slides.md](https://docs.google.com/presentation/d/1XfTvkL0kzQXpuXNamegu28KWDiKgU-_pWrSQbWLrQbs/edit?usp=sharing)>)
+### [Slides](https://docs.google.com/presentation/d/1XfTvkL0kzQXpuXNamegu28KWDiKgU-_pWrSQbWLrQbs/edit?usp=sharing)
 
 ### [Exercises](./Exercises/README.md)
