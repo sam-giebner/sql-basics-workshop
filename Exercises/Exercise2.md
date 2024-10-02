@@ -1,4 +1,4 @@
-# Exercise 1: Filtering Data
+# Exercise 2: Filtering Data
 
 This set of exercises will focus on using the `WHERE` clause in SQL. These clauses (and the accompanying operators) provide you with the power to filter your data allowing you to focus on specific areas of interest.
 
