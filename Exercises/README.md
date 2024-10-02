@@ -7,7 +7,7 @@ This folder contains a series of short exercises that will help you practice the
 Data for these exercises can be found in the `Data` folder. There are two databases in this folder:
 
 - [wrecks.sqlite](../Data/wrecks.sqlite) - contains data on shipwrecks in Lake Superior.
-- [duluth-osm.gpkg](./Data/duluth-osm.gpkg) - created from an extract of OpenStreetMap data from downtown Duluth.
+- [duluth-osm.gpkg](../Data/duluth-osm.gpkg) - created from an extract of OpenStreetMap data from downtown Duluth.
 - There is also another version of `duluth-osm` that is in a format (`.db`) that might be easier for some applications to ingest.
 
 These are all variations of SQLite databases.
