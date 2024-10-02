@@ -2,6 +2,7 @@
 
 This folder contains a series of short exercises that will help you practice the basics of SQL.
 
-### Table of Contents
+## Table of Contents
 
 - [Exercise 1: Query Basics](./Exercise1.md)
+- [Exercise 2: Filtering Data](./Exercise2.md)
