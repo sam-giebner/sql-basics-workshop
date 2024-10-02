@@ -167,7 +167,7 @@ ORDER BY ShipType;
 
 #### 2. Categorize the number of fatalities.
 
-The values in the `Fatalities` column are a bit of a mess. Let's clean it up.
+The values in the `Fatalities` column are a bit of a mess. Let's clean it up.  
 Use four categories:
 
 - `?` - Unknown
